@@ -1,0 +1,10 @@
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\BobTheBuilder.exe.config
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\BobTheBuilder.exe
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\BobTheBuilder.pdb
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\ARGus.dll
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\Microsoft.Build.dll
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\bin\Debug\Microsoft.Build.Engine.dll
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\obj\Debug\BobTheBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\obj\Debug\BobTheBuilder.exe
+C:\Users\Nino\Projects\BobTheBuilder\BobTheBuilder\obj\Debug\BobTheBuilder.pdb
